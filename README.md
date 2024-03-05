@@ -9,5 +9,7 @@ With these points in mind, in this Challenge you'll set yourself up for future s
 
 <img width="618" alt="acceptance" src="https://github.com/scerda8/challenge-2/assets/159675591/571af8a7-7a6e-4765-b9d6-5abf93b87b41">
 <img width="873" alt="project 2" src="https://github.com/scerda8/challenge-2/assets/159675591/c78224b7-fb3d-4a03-b728-d6021b7775d3">
+
+
 link to Git hub repo https://scerda8.github.io/challenge-2/
 
